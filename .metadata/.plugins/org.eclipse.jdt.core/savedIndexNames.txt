@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/joaob/eclipse-workspace/POO2/Pratica08Command/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+3392693828.index

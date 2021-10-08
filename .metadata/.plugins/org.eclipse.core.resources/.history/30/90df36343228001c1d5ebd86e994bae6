@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+
+public class DocumentInstance implements Command{
+
+	private ArrayList<Command> commands=new ArrayList<Command>();
+	private Document doc=new Document();
+	@Override
+	public void redo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void undo() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void write(String text) {
+		
+	}
+	public void erase(String text) {
+		
+	}
+}
